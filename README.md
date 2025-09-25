@@ -40,7 +40,7 @@ The application is divided into several functional tabs:
 
 ## 🛠️ Technical Details
 
-*Backend:* Data from CSV files is loaded, parsed, and stored efficiently using a data aggregation system. [cite_start]API calls are handled in a separate thread to keep the UI responsive.
+*Backend:* Data from CSV files is loaded, parsed, and stored efficiently using a data aggregation system. API calls are handled in a separate thread to keep the UI responsive.
 *Frontend:* The user interface is built with JavaFX and styled using external CSS for a clean and modern look.
 *Testing:* Key components, such as the ⁠ City ⁠ class and the tube journey algorithm, were rigorously tested using JUnit to ensure reliability and correctness.
 
